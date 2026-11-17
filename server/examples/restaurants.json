@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Sample Ramen Counter",
+    "cuisine": "Japanese",
+    "area": "East Village",
+    "city": "New York, NY",
+    "address": "East Village, Manhattan",
+    "lat": 40.7291,
+    "lng": -73.9831,
+    "price": 2,
+    "description": "Fictional restaurant for local development.",
+    "dietary": ["Vegetarian"],
+    "hours": ["Tue–Thu 5–10 PM", "Fri–Sat 5–11 PM", "Sun 5–9 PM"]
+  },
+  {
+    "name": "Sample Pizza Bar",
+    "cuisine": "Italian",
+    "area": "Williamsburg",
+    "city": "New York, NY",
+    "address": "Williamsburg, Brooklyn",
+    "lat": 40.7135,
+    "lng": -73.9612,
+    "price": 2,
+    "description": "Fictional restaurant for local development.",
+    "dietary": ["Vegetarian"]
+  }
+]

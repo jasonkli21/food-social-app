@@ -1,0 +1,32 @@
+{
+  "schedule": {
+    "timezone": "America/New_York",
+    "week": [
+      [{"start":60,"end":180}],
+      [{"start":690,"end":900},{"start":1020,"end":1320}],
+      [],
+      [],
+      [],
+      [{"start":1080,"end":1560}],
+      [{"start":720,"end":1200}]
+    ],
+    "exceptions": [
+      {"date":"2026-07-04","periods":[]},
+      {"date":"2026-12-25","periods":[]},
+      {"date":"2026-12-31","periods":[{"start":1080,"end":1500}]}
+    ]
+  },
+  "cases": [
+    {"at":"2026-03-08T06:30:00Z","open":true},
+    {"at":"2026-03-08T07:15:00Z","open":false},
+    {"at":"2026-11-01T05:30:00Z","open":true},
+    {"at":"2026-11-01T06:30:00Z","open":true},
+    {"at":"2026-11-01T08:01:00Z","open":false},
+    {"at":"2026-11-16T18:00:00Z","open":true},
+    {"at":"2026-11-16T20:30:00Z","open":false},
+    {"at":"2026-11-21T06:00:00Z","open":true},
+    {"at":"2026-11-21T07:00:00Z","open":false},
+    {"at":"2026-07-04T05:00:00Z","open":false},
+    {"at":"2027-01-01T05:30:00Z","open":true}
+  ]
+}

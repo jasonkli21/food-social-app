@@ -1,0 +1,10 @@
+*
+!.gcloudignore
+!.dockerignore
+!Dockerfile
+!go.mod
+!go.sum
+!cmd/
+!cmd/**
+!internal/
+!internal/**
